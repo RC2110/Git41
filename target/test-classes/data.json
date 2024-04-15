@@ -1,0 +1,13 @@
+{
+	"name":"ram kumar",
+	"age":23,
+	"gender":"Male",
+	"phoneNumber":897934385634875,
+	"sky is blue":true,
+	"address":{
+		"no":25,
+		"streetName": "new street",
+		"city":"Chennai", 
+		"zipCode":5765632
+		}
+}
